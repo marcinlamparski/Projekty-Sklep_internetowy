@@ -559,9 +559,9 @@ TYDZIEŃ 8:
 | Ocena z CSS, JS, Dokumentacja, to ocena z przedmiotu >> Aplikacje desktopowe i mobilne |
 | Ocena z prezentacji, to ocena z przedmiotu >> Witryny i aplikacje internetowe |
 
-Całość dokumentację (strukturę plików i katalogów) wrzucacie po skompresowaniu na serwer:
-| klasa V TIe --- https://tiny.pl/59ym1y5r |
-| klasa IV TIe --- https://tiny.pl/m954pryb |
+- Całość dokumentację (strukturę plików i katalogów) wrzucacie po skompresowaniu na serwer:
+- klasa V TIe --- https://tiny.pl/59ym1y5r
+- klasa IV TIe --- https://tiny.pl/m954pryb
 
 ---
 
