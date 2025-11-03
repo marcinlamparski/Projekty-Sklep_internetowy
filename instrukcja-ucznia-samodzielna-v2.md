@@ -68,6 +68,7 @@ Utwórz plik, który **połączy się z bazą MySQL**.
 
 - `mysqli_connect()` – łączenie z bazą
 - `mysqli_set_charset()` – ustawienie kodowania
+  Przykład użycia: mysqli_set_charset($conn, "utf8");  - po ustanowieniu połączenia z bazą w pliku config.php
 
 ### Wskazówka na strukturę:
 
@@ -127,9 +128,9 @@ Utwórz stronę, która:
 - `mysqli_fetch_assoc()` – pobranie wiersza
 - `mysqli_num_rows()` – liczba wierszy
 - `while` – pętla
-- `number_format()` – formatowanie ceny
+- `number_format()` – formatowanie ceny - skorzystaj z google lub dokumentacji, sprawdź jak działa
 - `substr()` – skrócenie tekstu
-- `htmlspecialchars()` – bezpieczeństwo
+- `htmlspecialchars()` – bezpieczeństwo - opcjonalnie, sprawdć jak działa, po co ją stosować?
 
 ### Wskazówki:
 
