@@ -560,7 +560,8 @@ TYDZIEŃ 8:
 | Ocena z prezentacji, to ocena z przedmiotu >> Witryny i aplikacje internetowe |
 
 Całość dokumentację (strukturę plików i katalogów) wrzucacie po skompresowaniu na serwer:
-https://tiny.pl/59ym1y5r
+klasa V TIe --- https://tiny.pl/59ym1y5r
+klasa IV TIe --- https://tiny.pl/m954pryb
 
 ---
 
