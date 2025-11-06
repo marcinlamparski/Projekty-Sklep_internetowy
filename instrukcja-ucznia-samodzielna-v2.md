@@ -388,12 +388,12 @@ function filterTable() {
 
 ### Zadanie 1: SQL Queries
 
-W phpMyAdmin wykonaj 10 różnych zapytań:
+W phpMyAdmin wykonaj 8 różnych zapytań:
 
-**Podpowiedzi do zapytań:**
+**Wskazówki do zapytań:**
 - Wszystkie produkty posortowane
 - Produkty droższe niż 100 PLN
-- Produkty o małej ilości
+- Produkty o małej ilości np <5
 - Zamówienia z danymi klientów (JOIN)
 - Liczba zamówień na klienta (GROUP BY)
 - Średnia cena produktu (AVG)
