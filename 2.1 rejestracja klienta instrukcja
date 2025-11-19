@@ -117,7 +117,14 @@ Stwórz nową stronę do której trafia dane z formularza która umożliwi ich w
 - Jeśli występiły błędy pozwala powrócić do formularza
 - Jeśli nie ma błędów wprowadza dane do bazy (nowego klienta)
 
+## WALIDACJA
 
+# Walidacja polega na:
+
+1. Sprawdzenie czy są puste formularze
+2. Sprawdzenie długości (imię 30 znaków, nazwisko 40 znaków, miast 30 znaków, telefon 12 znaków, miasto 30 znaków, email 50 znaków)
+3. Sprawdzenie czy jest liczbą (telefon)
+4. Sprawdzenie czy zawiera znaki: (email: 
 
 ## ⚙️ Dzień 5: STYLOWANIE (styl.css)
 
