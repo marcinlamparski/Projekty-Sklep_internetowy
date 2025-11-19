@@ -97,14 +97,14 @@ Stwórz nową stronę do której trafia dane z formularza która umożliwi ich w
 - Sprawdza poprawność wprowadzonych danych
 - Jeśli występują błędy informuje w którym miejscu (Inpucie)
 - Jeśli występiły błędy pozwala powrócić do formularza
-- Jeśli nie ma błędów wprowadza dane do bazy (nowego klienta)
+- Jeśli nie ma błędów wprowadza dane do bazy (nowego klienta) i potwierdza dodanie nowego klienta o danych jak w formularzu.
 
 ## WALIDACJA
 
 # Walidacja polega na:
 
 1. Sprawdzenie czy są puste formularze
-2. Sprawdzenie długości (imię 30 znaków, nazwisko 40 znaków, miast 30 znaków, telefon 12 znaków, miasto 30 znaków, email 50 znaków)
+2. Sprawdzenie długości (imię 30 znaków, nazwisko 40 znaków, miast 30 znaków, telefon 9 znaków, miasto 30 znaków, email 50 znaków)
 3. Sprawdzenie czy jest liczbą (telefon) i czy zawiera maksymalnie 9 znaków
 4. Sprawdzenie czy zawiera znaki: (email: @)
 
